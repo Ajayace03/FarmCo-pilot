@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/reco_banner.png" alt="FarmCo-Pilot Recommendation_Engine Banner" width="100%">
+  <img src="./assets/reco_banner.png" alt="FarmCo-Pilot Recommendation_Engine Banner" width="100%">
 </p>
 
 
