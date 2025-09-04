@@ -1,4 +1,4 @@
-# 🌾 FarmCo-Pilot: Inclusive Digital Agriculture Platform for Smallholder Farmers
+# 🌾 FarmCo-Pilot: AI-Driven MRV Platform Delivering Scalable, Auditable Solutions for Smallholder Agroforestry and Rice Carbon Projects
 
 ## NABARD Hackathon 2025 - Scalable MRV Solutions for Agroforestry and Rice-Based Carbon Projects
 
