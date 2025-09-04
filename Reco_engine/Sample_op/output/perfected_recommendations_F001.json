@@ -1,0 +1,215 @@
+{
+  "analysis_id": "b6436e67-da69-4302-bda8-07d5348caf92",
+  "farm_profile": "EnhancedFarmProfile(farm_id='F001', lat=np.float64(10.546179), lon=np.float64(76.41653), total_rainfall=np.float64(3392.2), rainy_days=np.int64(278), avg_temp=np.float64(27.237704918032787), avg_humidity=np.float64(81.04699453551912), kharif_rainfall=np.float64(2310.8), rabi_rainfall=np.float64(276.40000000000003), ndvi_mean=np.float64(0.6126129573041742), evi_mean=np.float64(0.5296623489995433), lai_mean=np.float64(1.8378388610753147), vegetation_health='Excellent', soil_ph_avg=np.float64(52.0), clay_pct_avg=np.float64(24.05), sand_pct_avg=np.float64(47.55), silt_pct_avg=np.float64(15.8), soc_avg=np.float64(2.05), cec_avg=np.float64(86.0), texture='Sandy Clay Loam', nutrient_status='Good', ph_status='Very Acidic', heat_stress_days=np.int64(11), drought_stress_days=np.int64(88), temp_variability=np.float64(1.2657551453699651), recent_rainfall=np.float64(319.79999999999995), recent_avg_temp=np.float64(26.16), recent_avg_humidity=np.float64(87.54333333333334), analysis_date='2025-09-04T21:06:44.413576', detected_zone='Zone_12_West_Coast')",
+  "detected_zone": "Zone_12_West_Coast",
+  "zone_characteristics": {
+    "climate_type": "Humid tropical",
+    "elevation": "Low",
+    "major_crops": [
+      "Rice",
+      "Coconut",
+      "Spices",
+      "Rubber"
+    ]
+  },
+  "recommendations": {
+    "rice": [
+      {
+        "variety_id": "RICE_005",
+        "variety_name": "Jyothi",
+        "category": "rice",
+        "suitability_score": 1.0,
+        "carbon_potential": 3.3,
+        "market_value": "High",
+        "confidence_level": 0.85,
+        "zones": [
+          "Zone_12_West_Coast"
+        ],
+        "climate_suitability": "Humid tropical",
+        "water_requirement": "High",
+        "soil_preference": "Lateritic"
+      },
+      {
+        "variety_id": "RICE_047",
+        "variety_name": "Rice Variety 47",
+        "category": "rice",
+        "suitability_score": 0.954,
+        "carbon_potential": 3.4000000000000004,
+        "market_value": "Premium",
+        "confidence_level": 0.8106,
+        "zones": [
+          "Zone_12_West_Coast"
+        ],
+        "climate_suitability": "Humid",
+        "water_requirement": "High",
+        "soil_preference": "Clay loam"
+      },
+      {
+        "variety_id": "RICE_017",
+        "variety_name": "Rice Variety 17",
+        "category": "rice",
+        "suitability_score": 0.9,
+        "carbon_potential": 2.2,
+        "market_value": "Premium",
+        "confidence_level": 0.765,
+        "zones": [
+          "Zone_12_West_Coast"
+        ],
+        "climate_suitability": "Humid",
+        "water_requirement": "High",
+        "soil_preference": "Red lateritic"
+      },
+      {
+        "variety_id": "RICE_032",
+        "variety_name": "Rice Variety 32",
+        "category": "rice",
+        "suitability_score": 0.9,
+        "carbon_potential": 2.0,
+        "market_value": "Premium",
+        "confidence_level": 0.765,
+        "zones": [
+          "Zone_12_West_Coast"
+        ],
+        "climate_suitability": "Humid",
+        "water_requirement": "High",
+        "soil_preference": "Alluvial"
+      }
+    ],
+    "agroforestry": [
+      {
+        "variety_id": "AGRO_004",
+        "variety_name": "Rubber",
+        "category": "agroforestry",
+        "suitability_score": 1.0,
+        "carbon_potential": 11.8,
+        "market_value": "High",
+        "confidence_level": 0.85,
+        "zones": [
+          "Zone_12_West_Coast"
+        ],
+        "climate_suitability": "Humid tropical",
+        "water_requirement": "High",
+        "soil_preference": "Lateritic"
+      },
+      {
+        "variety_id": "AGRO_017",
+        "variety_name": "Tree Species 17",
+        "category": "agroforestry",
+        "suitability_score": 1.0,
+        "carbon_potential": 9.0,
+        "market_value": "Premium",
+        "confidence_level": 0.85,
+        "zones": [
+          "Zone_12_West_Coast"
+        ],
+        "climate_suitability": "Humid",
+        "water_requirement": "High",
+        "soil_preference": "Deep fertile"
+      },
+      {
+        "variety_id": "AGRO_032",
+        "variety_name": "Tree Species 32",
+        "category": "agroforestry",
+        "suitability_score": 1.0,
+        "carbon_potential": 12.0,
+        "market_value": "Premium",
+        "confidence_level": 0.85,
+        "zones": [
+          "Zone_12_West_Coast"
+        ],
+        "climate_suitability": "Humid",
+        "water_requirement": "High",
+        "soil_preference": "Deep fertile"
+      },
+      {
+        "variety_id": "AGRO_047",
+        "variety_name": "Tree Species 47",
+        "category": "agroforestry",
+        "suitability_score": 0.988,
+        "carbon_potential": 15.0,
+        "market_value": "Premium",
+        "confidence_level": 0.8397,
+        "zones": [
+          "Zone_12_West_Coast"
+        ],
+        "climate_suitability": "Humid",
+        "water_requirement": "High",
+        "soil_preference": "Deep fertile"
+      },
+      {
+        "variety_id": "AGRO_014",
+        "variety_name": "Tree Species 14",
+        "category": "agroforestry",
+        "suitability_score": 0.724,
+        "carbon_potential": 6.0,
+        "market_value": "Premium",
+        "confidence_level": 0.6153,
+        "zones": [
+          "Zone_9_Western_Plateau"
+        ],
+        "climate_suitability": "Humid",
+        "water_requirement": "High",
+        "soil_preference": "Deep fertile"
+      }
+    ],
+    "crops": [
+      {
+        "variety_id": "CROP_005",
+        "variety_name": "Pepper Panniyur-1",
+        "category": "crops",
+        "suitability_score": 1.0,
+        "carbon_potential": 2.8,
+        "market_value": "Premium",
+        "confidence_level": 0.85,
+        "zones": [
+          "Zone_12_West_Coast"
+        ],
+        "climate_suitability": "Humid tropical",
+        "water_requirement": "High",
+        "soil_preference": "Lateritic"
+      },
+      {
+        "variety_id": "CROP_032",
+        "variety_name": "Crop 32",
+        "category": "crops",
+        "suitability_score": 0.929,
+        "carbon_potential": 1.4,
+        "market_value": "Premium",
+        "confidence_level": 0.7895,
+        "zones": [
+          "Zone_12_West_Coast"
+        ],
+        "climate_suitability": "Humid",
+        "water_requirement": "High",
+        "soil_preference": "Black cotton"
+      },
+      {
+        "variety_id": "CROP_017",
+        "variety_name": "Crop 17",
+        "category": "crops",
+        "suitability_score": 0.895,
+        "carbon_potential": 2.4000000000000004,
+        "market_value": "Premium",
+        "confidence_level": 0.7604,
+        "zones": [
+          "Zone_12_West_Coast"
+        ],
+        "climate_suitability": "Humid",
+        "water_requirement": "High",
+        "soil_preference": "Black cotton"
+      }
+    ]
+  },
+  "total_varieties_evaluated": 147,
+  "suitable_varieties_found": 14,
+  "realistic_carbon_potential": 3.62,
+  "estimated_annual_credits": 3.08,
+  "estimated_revenue": 76.92,
+  "farming_scenario": {
+    "rice_coverage": "40%",
+    "primary_crop_coverage": "30%",
+    "secondary_crop_coverage": "20%",
+    "agroforestry_coverage": "10%"
+  },
+  "analysis_timestamp": "2025-09-04T21:06:44.415088"
+}

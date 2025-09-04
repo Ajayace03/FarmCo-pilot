@@ -1,0 +1,38 @@
+# Agricultural Recommendation Engine Pipeline - Requirements
+# ===========================================================
+
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# API and web requests
+requests>=2.28.0
+urllib3>=1.26.0
+
+# Google APIs
+google-generativeai>=0.3.0
+earthengine-api>=0.1.300
+
+# Date and time handling
+python-dateutil>=2.8.0
+
+# Data science and analysis
+scikit-learn>=1.3.0
+scipy>=1.10.0
+
+# JSON and data serialization
+jsonschema>=4.17.0
+
+# Utilities
+tqdm>=4.65.0
+colorama>=0.4.6
+
+# Optional: For enhanced functionality
+matplotlib>=3.7.0  # For plotting (if needed)
+seaborn>=0.12.0    # For visualization (if needed)
+plotly>=5.15.0     # For interactive plots (if needed)
+
+# Development tools (optional)
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
