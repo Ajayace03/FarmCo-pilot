@@ -614,3 +614,13 @@ class EnvironmentalComplianceManager:
 ---
 
 **Note**: The government integration system is designed to simplify complex bureaucratic processes, making government services and benefits easily accessible to smallholder farmers. Our approach reduces paperwork, automates eligible benefit identification, and ensures compliance with all applicable regulations while maximizing farmer access to government support programs.
+
+
+## 🚧 Project Status: Work in Progress
+This project is currently in the **building stage**.  
+
+- All data, files, and documentation are **subject to change**  
+- Features may be incomplete, experimental, or unstable  
+- Do **not** rely on the current version for production use  
+
+We are actively developing and updating this repository, so expect frequent changes until a stable release is announced.

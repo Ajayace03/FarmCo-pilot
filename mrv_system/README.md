@@ -583,3 +583,13 @@ class MRVDataQualityController:
 ---
 
 **Note**: The MRV system is designed to seamlessly integrate climate action documentation with daily farming activities, making carbon credit participation accessible to smallholder farmers without adding complexity to their workflow. Our approach ensures scientific rigor while maintaining farmer-first usability and accessibility.
+
+
+## 🚧 Project Status: Work in Progress
+This project is currently in the **building stage**.  
+
+- All data, files, and documentation are **subject to change**  
+- Features may be incomplete, experimental, or unstable  
+- Do **not** rely on the current version for production use  
+
+We are actively developing and updating this repository, so expect frequent changes until a stable release is announced.

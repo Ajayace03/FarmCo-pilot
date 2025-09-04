@@ -207,3 +207,13 @@ def monitor_system_performance() -> dict
 ---
 
 **Note**: This utilities framework is designed to support the entire FarmCo-Pilot ecosystem, ensuring reliable, scalable, and maintainable operations across all platform components. Development is progressing in phases to ensure robust foundation before advanced features implementation.
+
+
+## 🚧 Project Status: Work in Progress
+This project is currently in the **building stage**.  
+
+- All data, files, and documentation are **subject to change**  
+- Features may be incomplete, experimental, or unstable  
+- Do **not** rely on the current version for production use  
+
+We are actively developing and updating this repository, so expect frequent changes until a stable release is announced.

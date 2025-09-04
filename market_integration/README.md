@@ -525,3 +525,13 @@ class LogisticsOptimizer:
 ---
 
 **Note**: The market integration system directly addresses the core challenge of market access for smallholder farmers. By enabling harvest pooling, transparent pricing, and direct buyer connections, we transform tiny, unmarketable harvests into competitive, fairly-priced produce that benefits both farmers and buyers.
+
+
+## 🚧 Project Status: Work in Progress
+This project is currently in the **building stage**.  
+
+- All data, files, and documentation are **subject to change**  
+- Features may be incomplete, experimental, or unstable  
+- Do **not** rely on the current version for production use  
+
+We are actively developing and updating this repository, so expect frequent changes until a stable release is announced.

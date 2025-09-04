@@ -414,3 +414,13 @@ Data is used exclusively for:
 ---
 
 **Note**: This documentation framework provides comprehensive support for all FarmCo-Pilot platform stakeholders. Documentation is being developed iteratively, with priority given to user-facing guides and critical technical specifications. All documentation will be maintained as living documents that evolve with the platform.
+
+
+## 🚧 Project Status: Work in Progress
+This project is currently in the **building stage**.  
+
+- All data, files, and documentation are **subject to change**  
+- Features may be incomplete, experimental, or unstable  
+- Do **not** rely on the current version for production use  
+
+We are actively developing and updating this repository, so expect frequent changes until a stable release is announced.

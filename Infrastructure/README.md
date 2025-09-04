@@ -624,3 +624,13 @@ class DockerManager:
 ---
 
 **Note**: The infrastructure components provide the robust foundation that enables the FarmCo-Pilot platform to operate reliably at scale. Our infrastructure is designed with security, performance, and scalability as core principles, ensuring the platform can grow from supporting thousands to millions of farmers while maintaining high availability and data integrity.
+
+
+## 🚧 Project Status: Work in Progress
+This project is currently in the **building stage**.  
+
+- All data, files, and documentation are **subject to change**  
+- Features may be incomplete, experimental, or unstable  
+- Do **not** rely on the current version for production use  
+
+We are actively developing and updating this repository, so expect frequent changes until a stable release is announced.

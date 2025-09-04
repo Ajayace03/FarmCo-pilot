@@ -313,3 +313,13 @@ class AgriculturalDataProcessor:
 ---
 
 **Note**: Our AI system is designed to be the intelligent core of the FarmCo-Pilot platform, providing accurate, explainable, and culturally appropriate agricultural recommendations. The models are being developed with a focus on smallholder farmer needs, ensuring accessibility and practical applicability across diverse Indian agricultural contexts.
+
+
+## 🚧 Project Status: Work in Progress
+This project is currently in the **building stage**.  
+
+- All data, files, and documentation are **subject to change**  
+- Features may be incomplete, experimental, or unstable  
+- Do **not** rely on the current version for production use  
+
+We are actively developing and updating this repository, so expect frequent changes until a stable release is announced.

@@ -423,3 +423,13 @@ Each stage seamlessly collects and validates data for comprehensive MRV complian
 ---
 
 **Note**: The farmer journey system is designed to provide comprehensive, stage-appropriate guidance while seamlessly collecting data for carbon credit verification. Each stage builds upon previous stages, creating a continuous improvement cycle that benefits both individual farmers and the broader agricultural ecosystem.
+
+
+## 🚧 Project Status: Work in Progress
+This project is currently in the **building stage**.  
+
+- All data, files, and documentation are **subject to change**  
+- Features may be incomplete, experimental, or unstable  
+- Do **not** rely on the current version for production use  
+
+We are actively developing and updating this repository, so expect frequent changes until a stable release is announced.

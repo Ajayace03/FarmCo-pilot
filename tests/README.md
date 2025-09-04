@@ -301,3 +301,13 @@ def sample_farm_data():
 ---
 
 **Note**: This comprehensive testing framework ensures the FarmCo-Pilot platform meets the highest standards of reliability, performance, and user satisfaction. Our testing strategy covers all aspects from individual component validation to large-scale system performance, supporting our goal of serving 10,000+ farmers reliably.
+
+
+## 🚧 Project Status: Work in Progress
+This project is currently in the **building stage**.  
+
+- All data, files, and documentation are **subject to change**  
+- Features may be incomplete, experimental, or unstable  
+- Do **not** rely on the current version for production use  
+
+We are actively developing and updating this repository, so expect frequent changes until a stable release is announced.
