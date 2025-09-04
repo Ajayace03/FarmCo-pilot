@@ -6,12 +6,6 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-Active%20Development-orange.svg)]()
 
----
-
-## 🚧 **Project Status: Active Development**
-> **⚠️ Important Notice**: This project is currently in **active development**. All data, files, and documentation are subject to change. Features may be incomplete, experimental, or unstable. Do **not** rely on the current version for production use without thorough testing.
-
----
 
 ### 🌾 Overview
 
@@ -437,3 +431,10 @@ For enterprise deployments, custom integrations, or commercial licensing, please
 *Building the future of agriculture, one farm at a time.*
 
 **Last Updated**: September 4, 2025 | **Version**: 3.0 | **Status**: Active Development
+
+---
+
+## 🚧 **Project Status: Active Development**
+> **⚠️ Important Notice**: This project is currently in **active development**. All data, files, and documentation are subject to change. Features may be incomplete, experimental, or unstable. Do **not** rely on the current version for production use without thorough testing.
+
+---
