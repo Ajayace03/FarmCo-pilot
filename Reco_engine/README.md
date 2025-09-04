@@ -1,4 +1,9 @@
-# Agricultural Recommendation Engine Pipeline v3.0
+<p align="center">
+  <img src="assets/reco_banner.png" alt="FarmCo-Pilot Recommendation_Engine Banner" width="100%">
+</p>
+
+
+# Agricultural Recommendation Engine Pipeline
 ## Complete End-to-End AI-Powered Farming Solution
 
 [![Version](https://img.shields.io/badge/version-3.0-blue.svg)](https://github.com/your-username/agricultural-recommendation-engine)
