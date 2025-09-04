@@ -1355,32 +1355,32 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ### 🛠️ Technical Support
 
-- **📚 Documentation**: [Complete Wiki](https://github.com/farmco-pilot/platform/wiki)
-- **🐛 Issues**: [GitHub Issues](https://github.com/farmco-pilot/platform/issues)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/farmco-pilot/platform/discussions)
-- **📺 Demo Video**: [YouTube Demo](https://youtu.be/mtrHKsI1P10)
+- **📚 Documentation**: [will be updated soon]
+- **🐛 Issues**: [will be updated soon](https://github.com/farmco-pilot/platform/issues)
+- **💬 Discussions**: [will be updated soon](https://github.com/farmco-pilot/platform/discussions)
+- **📺 Demo Video**: [will be updated soon](https://youtu.be/mtrHKsI1P10)
 
 
 ### 📧 Business \& Partnership Contact
 
-- **✉️ General Inquiries**: [team@farmco-pilot.com](mailto:team@farmco-pilot.com)
-- **🤝 NABARD Partnership**: [nabard@farmco-pilot.com](mailto:nabard@farmco-pilot.com)
-- **💰 Investor Relations**: [investors@farmco-pilot.com](mailto:investors@farmco-pilot.com)
-- **🌍 International Expansion**: [global@farmco-pilot.com](mailto:global@farmco-pilot.com)
+- **✉️ General Inquiries**: [will be updated](mailto:team@farmco-pilot.com)
+- **🤝 NABARD Partnership**: [will be updated](mailto:nabard@farmco-pilot.com)
+- **💰 Investor Relations**: [will be updated](mailto:investors@farmco-pilot.com)
+- **🌍 International Expansion**: [will be updated](mailto:global@farmco-pilot.com)
 
 
 ### 🌐 Community \& Social Media
 
-- **🐦 Twitter**: [@FarmCoPilot](https://twitter.com/FarmCoPilot)
-- **💼 LinkedIn**: [FarmCo-Pilot Platform](https://linkedin.com/company/farmco-pilot)
-- **📺 YouTube**: [Platform Demos \& Tutorials](https://youtube.com/@FarmCoPilot)
-- **📱 WhatsApp**: Farmer Support Hotline
+- **🐦 Twitter**: [will be updated soon](https://twitter.com/FarmCoPilot)
+- **💼 LinkedIn**: [will be updated soon](https://linkedin.com/company/farmco-pilot)
+- **📺 YouTube**: [Platform Demos \& Tutorial](https://youtu.be/mtrHKsI1P10)
+- **📱 WhatsApp**: Farmer Support Hotlin
 
 ***
 
 ## 🎯 Future Roadmap
 
-### 📅 Phase 1 (Months 1-6): Foundation \& Pilot
+### 📅 Phase 1 (Months 1-2): Foundation \& Pilot
 
 - [ ] 🚀 Complete core platform development (Stages 0-3)
 - [ ] 📱 Deploy smartphone app and voice system
@@ -1390,7 +1390,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 - [ ] 📈 Initial impact measurement and system optimization
 
 
-### 📅 Phase 2 (Months 7-12): Enhancement \& Growth
+### 📅 Phase 2 (Months 3-4): Enhancement \& Growth
 
 - [ ] 🔄 Full 5-stage pipeline deployment
 - [ ] 🤖 Advanced AI models for disease diagnosis and yield prediction
@@ -1400,7 +1400,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 - [ ] 🌐 Multi-language support expansion (15+ languages)
 
 
-### 📅 Phase 3 (Year 2): National Scaling
+### 📅 Phase 3 (Month 3-5): National Scaling
 
 - [ ] 🏛️ Government partnership agreements with multiple states
 - [ ] 💳 Financial services integration (crop loans, insurance)
@@ -1410,7 +1410,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 - [ ] 📈 Reach 100,000+ farmers nationwide
 
 
-### 📅 Phase 4 (Year 3+): International Expansion
+### 📅 Phase 4 (Year 1.5+): International Expansion
 
 - [ ] 🌏 International expansion (Bangladesh, Nepal, Sri Lanka, Africa)
 - [ ] 🛰️ Advanced satellite partnerships for real-time monitoring
@@ -1465,3 +1465,14 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 *Empowering every farmer -  Protecting our environment -  Building sustainable futures*
 
+
+![status: WIP](https://img.shields.io/badge/status-WIP-orange)
+
+## 🚧 Project Status: Work in Progress
+This project is currently in the **building stage**.  
+
+- All data, files, and documentation are **subject to change**  
+- Features may be incomplete, experimental, or unstable  
+- Do **not** rely on the current version for production use  
+
+We are actively developing and updating this repository, so expect frequent changes until a stable release is announced.
