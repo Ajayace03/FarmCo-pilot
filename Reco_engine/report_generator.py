@@ -26,7 +26,7 @@ class FixedAgriculturalReportGenerator:
 
     def __init__(self, api_key: Optional[str] = None):
         """Initialize the report generator with simplified configuration"""
-        self.api_key = api_key or "AIzaSyAeNcmFSx-QHyF6VzCeabxEcX018hXVrzw"
+        self.api_key = api_key or os.environ.get("GOOGLE_API_KEY")
         if not self.api_key:
             raise ValueError("Please set GOOGLE_API_KEY environment variable or provide api_key parameter")
 
