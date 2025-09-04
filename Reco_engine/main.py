@@ -202,7 +202,7 @@ class AgriculturalPipelineController:
             from report_generator import FixedAgriculturalReportGenerator
 
             # Check for API key
-            api_key = "AIzaSyAeNcmFSx-QHyF6VzCeabxEcX018hXVrzw"
+            api_key = os.environ.get("GOOGLE_API_KEY")
             if not api_key:
                 print("⚠️  GOOGLE_API_KEY not found in environment variables")
                 print("Report generation skipped. Set the API key to enable this feature.")
