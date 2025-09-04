@@ -1,7 +1,7 @@
 # 🌾 FarmCo-Pilot: AI-Driven MRV Platform Delivering Scalable, Auditable Solutions for Smallholder Agroforestry and Rice Carbon Projects
 
 ## NABARD Hackathon 2025 - Scalable MRV Solutions for Agroforestry and Rice-Based Carbon Projects
-
+![status: WIP](https://img.shields.io/badge/status-WIP-orange)
 ## 📖 Table of Contents
 
 - [🎯 Problem Statement](#-problem-statement)
@@ -18,7 +18,7 @@
 - [📈 Impact \& Scalability](#-impact--scalability)
 - [🔍 Troubleshooting](#-troubleshooting)
 - [🤝 Contributing](#-contributing)
-
+- 
 ***
 
 ## 🎯 Problem Statement
@@ -1466,7 +1466,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 *Empowering every farmer -  Protecting our environment -  Building sustainable futures*
 
 
-![status: WIP](https://img.shields.io/badge/status-WIP-orange)
 
 ## 🚧 Project Status: Work in Progress
 This project is currently in the **building stage**.  
