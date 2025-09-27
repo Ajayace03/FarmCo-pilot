@@ -1,0 +1,37 @@
+farm_id,lat,lon,date,temp_max,temp_min,temp,humidity,precip,windspeed,pressure,visibility,cloudcover,conditions,description,uvindex,sunrise,sunset
+F001,11.076571,77.028158,2025-08-23,32.0,24.5,27.1,79.7,0.0,25.9,1011.2,5.4,80.4,Partially cloudy,Partly cloudy throughout the day.,8.0,06:12:04,18:36:58
+F001,11.076571,77.028158,2025-08-24,33.0,24.0,28.0,71.9,0.0,24.2,1011.4,6.0,45.9,Partially cloudy,Partly cloudy throughout the day.,10.0,06:12:04,18:36:25
+F001,11.076571,77.028158,2025-08-25,34.0,24.4,28.4,71.4,0.0,22.3,1011.1,6.1,38.1,Partially cloudy,Clearing in the afternoon.,8.0,06:12:05,18:35:52
+F001,11.076571,77.028158,2025-08-26,33.0,25.0,28.3,71.2,0.0,27.7,1011.1,5.4,37.5,Partially cloudy,Partly cloudy throughout the day.,8.0,06:12:05,18:35:18
+F001,11.076571,77.028158,2025-08-27,32.0,24.0,26.6,76.9,18.8,31.7,1010.3,6.7,84.3,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,3.0,06:12:05,18:34:44
+F001,11.076571,77.028158,2025-08-28,28.0,23.0,24.9,87.0,34.4,25.9,1009.6,5.3,88.9,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,4.0,06:12:05,18:34:09
+F001,11.076571,77.028158,2025-08-29,31.0,23.0,25.4,76.1,7.2,27.7,1009.9,6.5,72.1,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,6.0,06:12:04,18:33:33
+F001,11.076571,77.028158,2025-08-30,32.0,23.3,26.8,68.8,3.4,27.7,1011.3,6.0,53.0,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,8.0,06:12:04,18:32:58
+F001,11.076571,77.028158,2025-08-31,31.0,23.0,26.1,77.9,0.0,27.7,1011.1,7.6,76.3,Partially cloudy,Partly cloudy throughout the day.,6.0,06:12:03,18:32:21
+F001,11.076571,77.028158,2025-09-01,32.0,24.0,26.6,74.0,0.1,24.1,1009.5,5.9,66.8,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,7.0,06:12:01,18:31:45
+F001,11.076571,77.028158,2025-09-02,32.0,22.5,26.9,73.3,0.0,25.9,1009.1,7.8,46.8,Partially cloudy,Partly cloudy throughout the day.,9.0,06:12:00,18:31:08
+F001,11.076571,77.028158,2025-09-03,30.0,24.0,26.3,75.3,0.1,25.9,1009.2,5.8,71.6,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,7.0,06:11:58,18:30:31
+F001,11.076571,77.028158,2025-09-04,32.0,23.0,26.3,75.0,0.0,29.5,1010.2,6.1,62.1,Partially cloudy,Partly cloudy throughout the day.,7.0,06:11:56,18:29:53
+F001,11.076571,77.028158,2025-09-05,31.0,23.0,26.2,77.5,0.6,25.9,1011.2,6.8,51.2,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,8.0,06:11:54,18:29:16
+F001,11.076571,77.028158,2025-09-06,33.0,24.0,27.0,74.9,0.2,31.7,1011.3,7.5,56.4,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,8.0,06:11:51,18:28:38
+F001,11.076571,77.028158,2025-09-07,32.0,24.0,27.1,76.4,0.5,24.1,1011.2,5.4,70.6,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,9.0,06:11:49,18:27:59
+F001,11.076571,77.028158,2025-09-08,33.0,24.0,27.2,75.2,0.2,24.1,1010.7,7.3,49.7,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,9.0,06:11:46,18:27:21
+F001,11.076571,77.028158,2025-09-09,34.0,24.0,27.6,74.8,0.3,24.1,1010.8,5.4,56.3,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,9.0,06:11:44,18:26:42
+F001,11.076571,77.028158,2025-09-10,32.0,25.0,26.8,82.1,0.1,22.3,1011.3,6.9,74.0,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,7.0,06:11:41,18:26:03
+F001,11.076571,77.028158,2025-09-11,32.0,23.0,27.4,76.8,6.2,27.7,1010.9,5.2,72.7,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,7.0,06:11:38,18:25:24
+F001,11.076571,77.028158,2025-09-12,33.0,24.0,27.4,75.2,0.3,25.9,1010.5,6.5,57.3,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,10.0,06:11:35,18:24:45
+F001,11.076571,77.028158,2025-09-13,32.0,23.0,27.1,74.4,0.0,25.9,1010.9,6.3,45.0,Partially cloudy,Partly cloudy throughout the day.,8.0,06:11:32,18:24:05
+F001,11.076571,77.028158,2025-09-14,33.0,23.0,27.2,75.0,0.0,24.1,1011.3,8.5,40.5,Partially cloudy,Partly cloudy throughout the day.,9.0,06:11:29,18:23:26
+F001,11.076571,77.028158,2025-09-15,33.0,24.0,27.5,74.4,0.1,27.7,1010.9,5.4,54.8,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,8.0,06:11:25,18:22:46
+F001,11.076571,77.028158,2025-09-16,33.0,23.4,27.5,74.7,7.4,24.1,1010.6,7.5,60.3,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,7.0,06:11:22,18:22:07
+F001,11.076571,77.028158,2025-09-17,32.0,24.0,26.8,79.2,11.7,27.7,1010.8,6.2,62.4,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,7.0,06:11:19,18:21:27
+F001,11.076571,77.028158,2025-09-18,32.0,23.0,26.9,76.3,4.5,22.3,1010.8,6.0,68.0,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,7.0,06:11:16,18:20:47
+F001,11.076571,77.028158,2025-09-19,32.0,24.0,26.9,76.3,2.5,20.5,1011.8,6.7,86.3,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,7.0,06:11:13,18:20:08
+F001,11.076571,77.028158,2025-09-20,31.0,23.2,26.3,79.2,8.2,22.3,1011.4,6.5,85.8,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,6.0,06:11:10,18:19:28
+F001,11.076571,77.028158,2025-09-21,31.0,24.0,26.6,77.2,1.6,22.3,1010.1,9.1,66.2,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,10.0,06:11:07,18:18:48
+F001,11.076571,77.028158,2025-09-22,32.0,24.0,27.3,73.0,0.8,25.9,1011.2,7.0,75.8,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,9.0,06:11:04,18:18:09
+F001,11.076571,77.028158,2025-09-23,30.0,24.0,26.7,72.7,0.4,27.7,1012.0,6.6,82.2,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,10.0,06:11:01,18:17:30
+F001,11.076571,77.028158,2025-09-24,31.0,24.0,26.7,73.5,0.1,27.7,1010.8,6.2,64.8,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,8.0,06:10:58,18:16:50
+F001,11.076571,77.028158,2025-09-25,33.0,22.4,27.6,72.3,3.7,29.5,1009.5,6.5,60.9,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,10.0,06:10:56,18:16:11
+F001,11.076571,77.028158,2025-09-26,34.0,23.0,27.4,70.5,0.2,25.9,1009.4,7.7,47.8,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,10.0,06:10:53,18:15:32
+F001,11.076571,77.028158,2025-09-27,31.0,22.0,26.0,72.6,0.1,42.5,1009.9,11.4,64.7,"Rain, Partially cloudy",Partly cloudy throughout the day with afternoon rain.,8.0,06:10:51,18:14:53

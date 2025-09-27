@@ -1,0 +1,44 @@
+crop_name,variety_name,type,zone,season,duration_days,yield_potential,water_requirement,soil_preference,carbon_potential,characteristics,special_features
+Wheat,HD-2967,Semi-dwarf,Upper_Gangetic_Plains,Rabi,135,5-6 t/ha,4-5 irrigations,Well-drained loam,1.8,"High yielding, disease resistant","Widely adapted, chapati quality"
+Wheat,PBW-343,Semi-dwarf,Trans_Gangetic_Plains,Rabi,125,6-7 t/ha,4-5 irrigations,Fertile alluvial,1.9,"Early maturity, high yield",Punjab's leading variety
+Wheat,DBW-17,Semi-dwarf,Middle_Gangetic_Plains,Rabi,130,5-6 t/ha,4 irrigations,Alluvial soils,1.7,Water efficient,Heat tolerant
+Wheat,Lok-1,Semi-dwarf,Central_Plateau_Hills,Rabi,140,4-5 t/ha,2-3 irrigations,Black cotton soils,1.6,Drought tolerant,Suitable for limited irrigation
+Maize,HQPM-1,Quality Protein Maize,Eastern_Plateau_Hills,Kharif,110,6-7 t/ha,500-600mm,Well-drained fertile,2.2,"High protein, lysine rich",Nutritional security
+Maize,Vivek Hybrid-9,Single cross hybrid,Middle_Gangetic_Plains,Kharif,105,7-8 t/ha,500-700mm,Fertile alluvial,2.4,High yielding hybrid,Superior heterosis
+Maize,Vivek Hybrid-27,Cold tolerant hybrid,Western_Himalayan,Kharif,120,5-6 t/ha,400-500mm,Hill soils,2.0,Cold tolerant,Suitable for hills
+Sorghum,CSH-16,Single cross hybrid,Southern_Plateau_Hills,Kharif,115,5-6 t/ha,400-500mm,Red lateritic,2.2,Drought tolerant,Stay-green trait
+Sorghum,CSV-15,Composite variety,Central_Plateau_Hills,Kharif,120,4-5 t/ha,350-450mm,Black cotton soils,2.0,Drought resistant,Open pollinated
+Pearl Millet,HHB-67,Single cross hybrid,Western_Dry_Region,Kharif,85,3-4 t/ha,250-350mm,Sandy soils,1.5,Extremely drought tolerant,Arid zone adaptation
+Pearl Millet,Raj-171,Open pollinated,Gujarat_Plains_Hills,Kharif,90,2-3 t/ha,200-300mm,Light sandy,1.3,Low water requirement,Traditional variety
+Groundnut,TAG-24,Spanish type,Southern_Plateau_Hills,Kharif,115,3-4 t/ha,500-600mm,Well-drained sandy loam,2.5,High oil content,"Drought tolerant, Spanish type"
+Groundnut,ICGV-91114,Valencia type,Gujarat_Plains_Hills,Kharif,125,4-5 t/ha,600-700mm,Alluvial soils,2.7,High pod yield,"Valencia type, export quality"
+Groundnut,GG-20,Virginia type,West_Coast_Plains_Ghats,Rabi,135,3-4 t/ha,400-500mm,Coastal sandy,2.3,Large seeded,"Virginia type, confectionery"
+Mustard,Varuna,Indian mustard,Upper_Gangetic_Plains,Rabi,135,2-3 t/ha,2-3 irrigations,Well-drained loam,1.8,High oil content,Widely adapted
+Mustard,RH-30,Indian mustard,Western_Dry_Region,Rabi,125,1.5-2.5 t/ha,1-2 irrigations,Sandy loam,1.5,Drought tolerant,Suitable for arid regions
+Sesame,RT-125,White seeded,Eastern_Plateau_Hills,Kharif,90,1-1.5 t/ha,300-400mm,Well-drained soils,1.2,Short duration,Export quality
+Sunflower,Morden,Hybrid,Southern_Plateau_Hills,Rabi,105,2-3 t/ha,400-500mm,Black cotton soils,1.5,High oil content,Sunflower oil
+Soybean,JS-335,Medium duration,Central_Plateau_Hills,Kharif,105,2-3 t/ha,450-600mm,Black cotton soils,2.8,Nitrogen fixing,"Protein rich, nitrogen fixation"
+Soybean,MACS-450,Early maturing,Western_Plateau_Hills,Kharif,95,2.5-3.5 t/ha,400-500mm,Well-drained black,2.6,Early maturity,Suitable for double cropping
+Chickpea,Avrodhi,Kabuli type,Western_Dry_Region,Rabi,115,2-3 t/ha,1-2 irrigations,Well-drained loam,2.2,"Large seeded, export type","Nitrogen fixing, drought tolerant"
+Chickpea,GNG-1581,Desi type,Central_Plateau_Hills,Rabi,125,1.5-2.5 t/ha,1 irrigation,Black cotton soils,2.0,Drought tolerant,Traditional preference
+Pigeon pea,UPAS-120,Medium duration,Eastern_Plateau_Hills,Kharif,160,2-2.5 t/ha,600-800mm,Red lateritic,2.5,Nitrogen fixing,Intercropping suitable
+Pigeon pea,Tur BSMR-736,Wilt resistant,Western_Plateau_Hills,Kharif,150,1.5-2 t/ha,500-700mm,Black cotton soils,2.3,Disease resistant,Fusarium wilt resistant
+Black gram,T-9,Summer type,Southern_Plateau_Hills,Summer,70,1-1.5 t/ha,3-4 irrigations,Well-drained loam,1.8,Short duration,Summer cultivation
+Green gram,ML-613,Early maturing,Eastern_Plateau_Hills,Summer,65,1-1.2 t/ha,3-4 irrigations,Sandy loam,1.5,Early maturity,Suitable for summer
+Cotton,RCH-134 Bt,Bt hybrid,Southern_Plateau_Hills,Kharif,180,4-5 t/ha,800-1200mm,Black cotton soils,2.0,Insect resistant,Bollworm resistant
+Cotton,G.Cot-23,Hybrid,Gujarat_Plains_Hills,Kharif,170,3-4 t/ha,700-1000mm,Black cotton soils,1.8,High yield,Gujarat variety
+Cotton,Suraj,Improved variety,Western_Plateau_Hills,Kharif,175,3-4 t/ha,800-1000mm,Deep black soils,1.9,Medium staple,Non-Bt variety
+Jute,JRO-524,High yielding,Lower_Gangetic_Plains,Kharif,120,3-4 t/ha,1000-1500mm,"Alluvial, waterlogged",1.5,High fiber yield,Waterlogging tolerant
+Sugarcane,CoS-767,High sugar variety,Middle_Gangetic_Plains,Annual,365,80-100 t/ha,1500-2500mm,Deep fertile loam,3.5,High sugar content,18-20% sugar recovery
+Sugarcane,Co-86032,High yielding,Western_Plateau_Hills,Annual,365,100-120 t/ha,2000-2500mm,Black cotton soils,3.8,High cane yield,Red rot resistant
+Tea,Assam Tea,CTC type,Eastern_Himalayan,Perennial,365,2-3 t/ha,1500-2500mm,"Acidic, well-drained",4.5,High tannin,"Strong liquor, CTC suitable"
+Tea,Darjeeling Tea,Orthodox type,Eastern_Himalayan,Perennial,365,1-1.5 t/ha,1200-2000mm,"Hill slopes, acidic",4.2,"Aromatic, delicate","Premium quality, muscatel flavor"
+Cardamom,Malabar,Large cardamom,Eastern_Himalayan,Perennial,365,150-200 kg/ha,2500-3500mm,"Forest loam, shade",3.0,Shade loving,Queen of spices
+Black Pepper,Panniyur-1,High yielding,West_Coast_Plains_Ghats,Perennial,365,2-3 kg/vine,2000-3000mm,"Lateritic, well-drained",2.5,High piperine content,King of spices
+Ginger,Rio-de-Janeiro,High yielding,West_Coast_Plains_Ghats,Kharif,250,15-20 t/ha,1500-2000mm,Well-drained loam,2.0,High dry recovery,Export quality
+Banana,Nendran,Cooking banana,West_Coast_Plains_Ghats,Perennial,365,40-50 t/ha,1800-2200mm,Deep alluvial,2.8,Large fruit,"Cooking variety, Kerala specialty"
+Banana,Robusta,Table banana,Southern_Plateau_Hills,Perennial,365,50-60 t/ha,1500-2000mm,Red lateritic,3.0,Export quality,"Table purpose, export grade"
+Potato,Kufri Jyoti,Early variety,Lower_Gangetic_Plains,Rabi,90,25-30 t/ha,4-5 irrigations,Well-drained loam,1.2,Early maturity,Processing quality
+Potato,Kufri Pukhraj,Medium duration,Trans_Gangetic_Plains,Rabi,110,35-40 t/ha,5-6 irrigations,Fertile alluvial,1.4,High yielding,Table purpose
+Onion,Nasik Red,Red onion,Western_Plateau_Hills,Rabi,120,30-40 t/ha,6-8 irrigations,Well-drained black,1.0,Good storage,"Export quality, pungent"
+Tomato,Pusa Ruby,Determinate,Southern_Plateau_Hills,Rabi,75,40-50 t/ha,400-600mm,Well-drained fertile,0.8,Processing type,Suitable for sauce making

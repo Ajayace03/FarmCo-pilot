@@ -1,0 +1,2 @@
+farm_id,farmer_id,farmer_name,lat,lon,area_ha,village,district,state,crop,age,category,annual_income,education,aadhaar,land_ownership_type,bank_account,livestock_count,interested_activities,farming_experience
+F001,NBF_001,Arun Kumar,11.076571, 77.028158,1.0,Agrampahad,Hanumakonda,Telangana,Rice,35,General,120000,Graduate,123456789012,owned,XXXX4567,5,"storage,organic farming",8

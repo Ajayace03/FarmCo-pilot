@@ -21,7 +21,7 @@ class WeatherDataFetcher:
     """Enhanced weather data fetcher with retry logic and better error handling"""
 
     def __init__(self, api_key: str = "NA4GPJH9SVCN5Z4FTMKQFXZ4D"):
-        self.api_key = api_key
+        self.api_key = api_keys
         self.base_url = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline"
         self.max_retries = 3
         self.retry_delay = 5  # seconds

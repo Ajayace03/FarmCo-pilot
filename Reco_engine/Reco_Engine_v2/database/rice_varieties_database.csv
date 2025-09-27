@@ -1,0 +1,52 @@
+variety_name,type,zone,duration_days,yield_potential,water_requirement,soil_preference,carbon_potential,characteristics,special_features
+Ranjit,Medium duration indica,Eastern_Himalayan,135,4-5 t/ha,High,"Acidic, well-drained",3.0,"Cold tolerant, good for hilly areas",Resistant to blast disease
+Bahadur,Long duration indica,Eastern_Himalayan,155,5-6 t/ha,High,Acidic to neutral,3.2,"High yielding, photosensitive","Good grain quality, aromatic"
+IR-36,Semi-dwarf indica,Eastern_Himalayan,125,6-7 t/ha,Medium,Neutral to alkaline,2.8,"Early maturing, high tillering","Disease resistant, widely adapted"
+Masuri,Traditional indica,Eastern_Himalayan,140,3-4 t/ha,Medium,Acidic,2.5,"Traditional variety, aromatic","Local adaptation, cultural preference"
+Swarna,Semi-dwarf indica,Lower_Gangetic_Plains,125,6-7 t/ha,Medium,"Alluvial, neutral pH",3.0,"High yielding, good grain quality","Widely adapted, BLB resistant"
+IR-64,Semi-dwarf indica,Lower_Gangetic_Plains,120,7-8 t/ha,Medium,Alluvial soils,3.1,"High yielding, early maturity",Multiple disease resistance
+Satabdi,Semi-dwarf indica,Lower_Gangetic_Plains,135,5-6 t/ha,Medium,Alluvial to clay,2.9,"Medium duration, good tillering",Suitable for direct seeding
+Lalat,Semi-dwarf indica,Lower_Gangetic_Plains,140,5-6 t/ha,Medium,Clay to loam,3.0,Good for wet season,Submergence tolerant
+Swarna,Semi-dwarf indica,Middle_Gangetic_Plains,125,6-7 t/ha,Medium,"Alluvial, neutral pH",3.0,"High yielding, good grain quality","Widely adapted, BLB resistant"
+IR-64,Semi-dwarf indica,Middle_Gangetic_Plains,120,7-8 t/ha,Medium,Alluvial soils,3.1,"High yielding, early maturity",Multiple disease resistance
+Rajendra Mahsuri,Semi-dwarf indica,Middle_Gangetic_Plains,135,6-7 t/ha,Medium,Alluvial to clay,3.2,"High yielding, good quality",Resistant to bacterial blight
+Saryu-52,Semi-dwarf indica,Middle_Gangetic_Plains,130,5-6 t/ha,Medium,Alluvial soils,2.9,"Medium duration, stable yield",Drought tolerant
+Pusa-44,Semi-dwarf indica,Upper_Gangetic_Plains,125,7-8 t/ha,Medium,"Alluvial, alkaline tolerant",3.1,"High yielding, early maturity",Salt and alkali tolerant
+CSR-30,Semi-dwarf indica,Upper_Gangetic_Plains,130,6-7 t/ha,Low-medium,Saline-alkaline,2.8,Salt tolerant,Suitable for problem soils
+Pusa Basmati-1121,Aromatic long grain,Upper_Gangetic_Plains,145,4-5 t/ha,Medium,Well-drained loam,2.5,Premium aromatic rice,"Export quality, high market value"
+PRH-10,Hybrid indica,Upper_Gangetic_Plains,135,8-9 t/ha,Medium,Fertile alluvial,3.3,High yielding hybrid,Superior heterosis effect
+PR-114,Semi-dwarf indica,Trans_Gangetic_Plains,125,7-8 t/ha,Medium,Alluvial,3.0,"High yielding, early maturity",Suitable for machine harvesting
+PR-121,Semi-dwarf indica,Trans_Gangetic_Plains,130,6-7 t/ha,Medium,Alluvial to clay,2.9,"Medium duration, good quality",Resistant to major diseases
+Pusa-44,Semi-dwarf indica,Trans_Gangetic_Plains,125,7-8 t/ha,Medium,"Alluvial, alkaline tolerant",3.1,"High yielding, early maturity",Salt and alkali tolerant
+CSR-30,Semi-dwarf indica,Trans_Gangetic_Plains,130,6-7 t/ha,Low-medium,Saline-alkaline,2.8,Salt tolerant,Suitable for problem soils
+Swarna,Semi-dwarf indica,Eastern_Plateau_Hills,125,5-6 t/ha,Medium,Red lateritic,2.8,Adapted to upland conditions,Drought tolerant
+MTU-1010,Medium duration indica,Eastern_Plateau_Hills,135,6-7 t/ha,Medium,Red to alluvial,3.0,"High yielding, good quality",Wide adaptability
+Rajeshwari,Semi-dwarf indica,Eastern_Plateau_Hills,140,5-6 t/ha,Medium,Red lateritic,2.9,"Medium duration, stable yield",Suitable for rainfed conditions
+Pooja,Traditional indica,Eastern_Plateau_Hills,150,4-5 t/ha,Low,Red soils,2.5,"Traditional variety, drought tolerant","Local adaptation, aromatic"
+JR-201,Medium duration indica,Central_Plateau_Hills,140,4-5 t/ha,Low,Black cotton soils,2.5,Suitable for rainfed,Drought tolerant
+Kranti,Semi-dwarf indica,Central_Plateau_Hills,135,5-6 t/ha,Medium,Black to red soils,2.7,"Medium duration, good adaptation",Suitable for limited irrigation
+IR-64,Semi-dwarf indica,Central_Plateau_Hills,120,6-7 t/ha,Medium,Irrigated conditions,2.9,High yielding with irrigation,Multiple disease resistance
+Phule Radha,Semi-dwarf indica,Western_Plateau_Hills,125,5-6 t/ha,Medium,Black cotton soils,2.8,Suitable for Maharashtra,Good grain quality
+Indira Sugandhit Dhan,Aromatic indica,Western_Plateau_Hills,140,4-5 t/ha,Medium,Well-drained soils,2.5,"Aromatic, premium variety",Export potential
+Karjat-3,Medium duration indica,Western_Plateau_Hills,135,5-6 t/ha,Medium,Black soils,2.7,Local adaptation,Suitable for limited water
+BPT-5204,Semi-dwarf indica,Southern_Plateau_Hills,125,6-7 t/ha,Medium,Red lateritic,3.0,"High yielding, medium duration",Widely adapted in South India
+MTU-1010,Medium duration indica,Southern_Plateau_Hills,135,6-7 t/ha,Medium,Red to black soils,3.1,"High yielding, good quality",Suitable for multiple seasons
+Swarna,Semi-dwarf indica,Southern_Plateau_Hills,125,5-6 t/ha,Medium,Red soils,2.9,Good adaptation,Bacterial blight resistant
+Rasi,Medium duration indica,Southern_Plateau_Hills,140,5-6 t/ha,Medium,Red lateritic,2.8,"Medium duration, stable yield",Drought tolerant
+JGL-1798,Semi-dwarf indica,Southern_Plateau_Hills,130,6-7 t/ha,Medium,Black to red soils,3.0,High yielding,Good for Telangana conditions
+ADT-43,Semi-dwarf indica,East_Coast_Plains_Hills,125,6-7 t/ha,Medium,Coastal alluvial,3.0,"High yielding, early maturity",Salt tolerant
+BPT-5204,Semi-dwarf indica,East_Coast_Plains_Hills,125,6-7 t/ha,Medium,Alluvial to coastal,3.1,High yielding,Wide adaptation
+MTU-1010,Medium duration indica,East_Coast_Plains_Hills,135,6-7 t/ha,Medium,Coastal soils,3.2,"High yielding, good quality",Suitable for East Coast
+CR-1009,Semi-dwarf indica,East_Coast_Plains_Hills,130,5-6 t/ha,Medium,Coastal sandy loam,2.8,Salt tolerance,Suitable for coastal areas
+Improved White Ponni,Medium grain indica,East_Coast_Plains_Hills,135,5-6 t/ha,Medium,Delta soils,2.9,Good grain quality,Traditional preference in Tamil Nadu
+Jyothi,Medium duration indica,West_Coast_Plains_Ghats,140,5-6 t/ha,High,"Lateritic, acidic",2.8,Suitable for high rainfall,Adapted to Kerala conditions
+Aiswarya,Semi-dwarf indica,West_Coast_Plains_Ghats,135,6-7 t/ha,High,Lateritic,3.0,High yielding for Kerala,Good grain quality
+Uma,Medium duration indica,West_Coast_Plains_Ghats,145,5-6 t/ha,High,Acidic lateritic,2.7,Local adaptation,Suitable for organic farming
+Kanchana,Medium duration indica,West_Coast_Plains_Ghats,140,5-6 t/ha,High,Lateritic soils,2.8,Good for wet conditions,Disease resistant
+Pokkali,Traditional indica,West_Coast_Plains_Ghats,150,3-4 t/ha,High,Saline coastal,2.5,Salt tolerant traditional variety,Unique ecosystem adaptation
+GR-11,Semi-dwarf indica,Gujarat_Plains_Hills,120,5-6 t/ha,Medium,Alluvial,2.7,Early maturity,Suitable for Gujarat conditions
+Gurjari,Semi-dwarf indica,Gujarat_Plains_Hills,125,6-7 t/ha,Medium,Black cotton soils,2.9,High yielding,Adapted to Gujarat climate
+Indira Sona,Medium duration indica,Gujarat_Plains_Hills,135,5-6 t/ha,Medium,Alluvial to black,2.6,Good quality grain,Market preference
+CR-1009,Semi-dwarf indica,Islands_Region,130,4-5 t/ha,Medium,Sandy loam,2.5,Island adaptation,Salt wind tolerance
+CARI-1,Medium duration indica,Islands_Region,140,4-5 t/ha,Medium,Island soils,2.6,Developed for islands,Climate resilient
+Island Special,Traditional indica,Islands_Region,145,3-4 t/ha,Low,Sandy coastal,2.3,Local variety,Traditional island cultivation

@@ -1,0 +1,39 @@
+{
+  "farm_id": "F001",
+  "format_type": "COMPLETE_PIPELINE_OUTPUT",
+  "modular_components": {
+    "agricultural_recommendations_available": true,
+    "government_schemes_available": true,
+    "comprehensive_report_available": true,
+    "agricultural_recommendations_file": "agricultural_recommendations_F001.json",
+    "government_schemes_file": "government_schemes_F001.json",
+    "comprehensive_report_file": "comprehensive_agricultural_report_F001.json"
+  },
+  "pipeline_highlights": {
+    "total_recommendations": 11,
+    "categories_covered": [
+      "rice",
+      "agroforestry",
+      "crops"
+    ],
+    "carbon_potential": 2.36,
+    "estimated_revenue": 50.15,
+    "total_eligible_schemes": 13,
+    "high_priority_schemes": 8,
+    "comprehensive_report_generated": true
+  },
+  "next_steps": [
+    "Review 11 OLD engine recommendations with real variety names",
+    "Apply for 13 eligible government schemes",
+    "Review comprehensive report for complete implementation strategy"
+  ],
+  "metadata": {
+    "summary_generated_at": "2025-09-27T18:37:22.929912",
+    "pipeline_version": "complete_6.6",
+    "components": [
+      "OLD_engine",
+      "government_schemes",
+      "comprehensive_reports"
+    ]
+  }
+}

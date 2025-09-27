@@ -1,0 +1,229 @@
+{
+  "farmer_profile": {
+    "name": "Arun Kumar",
+    "farm_id": "F001",
+    "location": "Agrampahad, Hanumakonda, Telangana",
+    "farm_size": "1.0 hectares",
+    "primary_crop": "Rice",
+    "profile_completeness": {
+      "percentage": 80.0,
+      "filled_fields": 16,
+      "total_fields": 20,
+      "status": "Good"
+    }
+  },
+  "eligibility_summary": {
+    "total_eligible_schemes": 13,
+    "high_priority_schemes": 8,
+    "medium_priority_schemes": 5,
+    "direct_benefit_schemes": 5,
+    "potential_additional_schemes": 0
+  },
+  "recommended_schemes": {
+    "immediate_apply": [
+      {
+        "scheme_name": "Agricultural Marketing Infrastructure (AMI)",
+        "category": "nabard_schemes",
+        "eligibility_score": 1.0,
+        "subsidy_amount": "25% to 33.33% of project cost (Maximum Rs 1 crore)",
+        "key_benefits": [
+          "Up to Rs 1 crore subsidy for storage infrastructure",
+          "No land size restrictions - all farmers eligible",
+          "Supports scientific storage and marketing facilities"
+        ],
+        "next_steps": [
+          "Step 1: Prepare detailed project report for storage/marketing infrastructure",
+          "Step 2: Approach eligible financial institution (Bank/SFC) for term loan",
+          "Step 3: Submit project report with cost estimates to bank"
+        ],
+        "missing_requirements": [],
+        "priority": "High",
+        "contact": "Contact agriculture office"
+      },
+      {
+        "scheme_name": "Agri Clinics and Agri Business Centres (ACABC)",
+        "category": "nabard_schemes",
+        "eligibility_score": 0.94,
+        "subsidy_amount": "36% (General) to 44% (SC/ST/Women/NER) of project cost (Maximum Rs 25 lakh)",
+        "key_benefits": [
+          "Up to Rs 25 lakh subsidy for agri-business setup",
+          "Higher 44% subsidy for women, SC/ST, NER candidates",
+          "Professional training provided before business setup"
+        ],
+        "next_steps": [
+          "Step 1: Complete agriculture degree/diploma or document practical experience",
+          "Step 2: Prepare business plan for agri-clinic/business center",
+          "Step 3: Register at nearest ACABC training institute"
+        ],
+        "missing_requirements": [],
+        "priority": "High",
+        "contact": "Contact agriculture office"
+      },
+      {
+        "scheme_name": "Rural Infrastructure Development Fund (RIDF)",
+        "category": "nabard_schemes",
+        "eligibility_score": 0.92,
+        "subsidy_amount": "Low interest loans to state governments (benefit passes to farmers)",
+        "key_benefits": [
+          "Improved rural roads connecting farms to markets",
+          "Better irrigation facilities through minor irrigation projects",
+          "Enhanced connectivity reducing transportation costs"
+        ],
+        "next_steps": [
+          "Step 1: State government identifies rural infrastructure needs",
+          "Step 2: Prepare detailed project proposals with cost estimates",
+          "Step 3: Submit proposals to NABARD through State Planning Department"
+        ],
+        "missing_requirements": [],
+        "priority": "High",
+        "contact": "Contact agriculture office"
+      },
+      {
+        "scheme_name": "Micro Irrigation Fund (MIF)",
+        "category": "nabard_schemes",
+        "eligibility_score": 0.94,
+        "subsidy_amount": "Low cost funds to states for farmer subsidies on drip/sprinkler irrigation",
+        "key_benefits": [
+          "Access to subsidized drip and sprinkler irrigation systems",
+          "Significant water savings (40-60% water conservation)",
+          "Higher crop yields with efficient water use"
+        ],
+        "next_steps": [
+          "Step 1: State identifies areas needing micro irrigation expansion",
+          "Step 2: State prepares comprehensive micro irrigation expansion plan",
+          "Step 3: Submit detailed proposal to NABARD with cost estimates"
+        ],
+        "missing_requirements": [],
+        "priority": "High",
+        "contact": "Contact agriculture office"
+      },
+      {
+        "scheme_name": "Interest Subvention Scheme",
+        "category": "nabard_schemes",
+        "eligibility_score": 0.98,
+        "subsidy_amount": "3% interest subvention on crop loans up to Rs 3 lakh",
+        "key_benefits": [
+          "Significant reduction in crop loan interest rates",
+          "Additional 3% reduction for prompt repayment",
+          "Available through all banks automatically"
+        ],
+        "next_steps": [
+          "Step 1: Approach any scheduled bank for crop loan",
+          "Step 2: Submit loan application with required documents",
+          "Step 3: Bank processes loan as per normal procedures"
+        ],
+        "missing_requirements": [],
+        "priority": "High",
+        "contact": "Contact agriculture office"
+      }
+    ],
+    "consider_applying": [
+      {
+        "scheme_name": "National Livestock Mission (NLM)",
+        "category": "animal_husbandry_schemes",
+        "eligibility_score": 0.96,
+        "subsidy_amount": "50% of project cost up to Rs 50 lakh maximum",
+        "key_benefits": [
+          "Up to Rs 50 lakh subsidy for livestock entrepreneurship",
+          "85% insurance premium support (farmer pays only 15%)",
+          "Breed improvement support for all animals"
+        ],
+        "next_steps": [
+          "Step 1: Visit nlm.udyamimitra.in for online application",
+          "Step 2: Select appropriate sub-mission (breed development/feed development/skill development)",
+          "Step 3: Fill application form with livestock details and project plan"
+        ],
+        "missing_requirements": [],
+        "priority": "Medium",
+        "contact": "Contact agriculture office"
+      },
+      {
+        "scheme_name": "Animal Husbandry Infrastructure Development Fund (AHIDF)",
+        "category": "animal_husbandry_schemes",
+        "eligibility_score": 0.94,
+        "subsidy_amount": "3% interest subvention per annum + 25% credit guarantee for MSMEs",
+        "key_benefits": [
+          "Rs 29,610 crore fund for animal husbandry infrastructure",
+          "3% interest subvention reducing loan costs significantly",
+          "25% credit guarantee for MSMEs reducing collateral requirements"
+        ],
+        "next_steps": [
+          "Step 1: Visit ahidf.udyamimitra.in for online application",
+          "Step 2: Register as entrepreneur/organization on the portal",
+          "Step 3: Select project category (dairy/meat/feed/vaccines etc.)"
+        ],
+        "missing_requirements": [],
+        "priority": "Medium",
+        "contact": "Contact agriculture office"
+      },
+      {
+        "scheme_name": "Pradhan Mantri Matsya Sampada Yojana (PMMSY)",
+        "category": "fisheries_schemes",
+        "eligibility_score": 0.8,
+        "subsidy_amount": "40% for general category, 60% for SC/ST/Women of unit cost",
+        "key_benefits": [
+          "Rs 20,050 crore investment in fisheries sector development",
+          "60% subsidy for SC/ST/Women vs 40% for others",
+          "Complete value chain support from production to marketing"
+        ],
+        "next_steps": [
+          "Step 1: Visit pmmsy.dof.gov.in for scheme guidelines and application",
+          "Step 2: Identify suitable activity (aquaculture/marine/infrastructure/marketing)",
+          "Step 3: Prepare detailed project report with cost estimates"
+        ],
+        "missing_requirements": [
+          "Scheme for fisheries - interest in fish farming needed"
+        ],
+        "priority": "Medium",
+        "contact": "Contact agriculture office"
+      },
+      {
+        "scheme_name": "Telangana Agricultural Development and Farmer Welfare Scheme",
+        "category": "state_schemes",
+        "eligibility_score": 0.9,
+        "subsidy_amount": "As per state scheme guidelines - contact local agriculture office",
+        "key_benefits": [
+          "State-specific agricultural support schemes",
+          "Subsidies as per state guidelines",
+          "Technical support from state agriculture department"
+        ],
+        "next_steps": [
+          "Step 1: Contact nearest state agriculture office",
+          "Step 2: Enquire about available schemes and eligibility",
+          "Step 3: Submit application with required documents"
+        ],
+        "missing_requirements": [],
+        "priority": "Medium",
+        "contact": "Contact agriculture office"
+      },
+      {
+        "scheme_name": "DAY-NRLM (Deendayal Antyodaya Yojana)",
+        "category": "special_programs",
+        "eligibility_score": 0.98,
+        "subsidy_amount": "Contact for details",
+        "key_benefits": [],
+        "next_steps": [],
+        "missing_requirements": [],
+        "priority": "Medium",
+        "contact": "Contact agriculture office"
+      }
+    ]
+  },
+  "missing_information": {
+    "missing_fields": [],
+    "potential_benefits": [],
+    "improvement_impact": "Adding missing information could unlock 0 additional benefit categories"
+  },
+  "next_steps": [
+    "Apply for PM-KISAN immediately (guaranteed Rs 6,000/year for Arun Kumar)",
+    "Visit nearest agriculture office for Interest Subvention Scheme enrollment",
+    "Ensure Aadhaar card is available (mandatory for most schemes)",
+    "Consider applying for micro irrigation under PM-RKVY",
+    "Contact Telangana Agriculture Department for state-specific schemes"
+  ],
+  "report_metadata": {
+    "generated_at": "2025-09-27T18:33:51.088044",
+    "total_schemes_analyzed": 13,
+    "analysis_version": "3.1"
+  }
+}

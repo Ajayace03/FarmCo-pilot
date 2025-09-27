@@ -1,0 +1,222 @@
+{
+  "analysis_id": "6ddf8efd-23fb-4547-b729-0fc7567c9f88",
+  "farm_profile": "EnhancedFarmProfile(farm_id='F001', lat=np.float64(11.076571), lon=np.float64(77.028158), total_rainfall=np.float64(113.69999999999999), rainy_days=np.int64(27), avg_temp=np.float64(26.91388888888889), avg_humidity=np.float64(75.35277777777779), kharif_rainfall=np.float64(113.69999999999999), rabi_rainfall=np.float64(0.0), ndvi_mean=np.float64(0.5560833333333334), evi_mean=np.float64(0.4409166666666667), lai_mean=np.float64(2.216666666666667), vegetation_health='Good', soil_ph_avg=np.float64(7.6), clay_pct_avg=np.float64(15.95), sand_pct_avg=np.float64(55.55), silt_pct_avg=np.float64(14.7), soc_avg=np.float64(1.64), cec_avg=np.float64(189.5), texture='Sandy Loam', nutrient_status='Moderate', ph_status='Slightly Alkaline', heat_stress_days=np.int64(0), drought_stress_days=np.int64(9), temp_variability=np.float64(0.7167995447135743), recent_rainfall=np.float64(60.50000000000001), recent_avg_temp=np.float64(26.85333333333334), recent_avg_humidity=np.float64(75.15333333333334), analysis_date='2025-09-27T18:33:51.066007', detected_zone='Zone_15_Island')",
+  "detected_zone": "Zone_15_Island",
+  "zone_characteristics": {
+    "climate_type": "Tropical maritime",
+    "elevation": "Low",
+    "major_crops": [
+      "Coconut",
+      "Rice",
+      "Spices",
+      "Fruits"
+    ]
+  },
+  "recommendations": {
+    "rice": [
+      {
+        "variety_id": "RICE_049",
+        "variety_name": "CR-1009",
+        "category": "rice",
+        "suitability_score": 1.0,
+        "carbon_potential": 2.5,
+        "market_value": "High",
+        "confidence_level": 0.85,
+        "zones": [
+          "Zone_15_Island"
+        ],
+        "climate_suitability": "Semi-dwarf indica",
+        "water_requirement": "Medium",
+        "soil_preference": "Sandy loam",
+        "characteristics": "Island adaptation",
+        "special_features": "Salt wind tolerance"
+      },
+      {
+        "variety_id": "RICE_050",
+        "variety_name": "CARI-1",
+        "category": "rice",
+        "suitability_score": 1.0,
+        "carbon_potential": 2.6,
+        "market_value": "High",
+        "confidence_level": 0.85,
+        "zones": [
+          "Zone_15_Island"
+        ],
+        "climate_suitability": "Medium duration indica",
+        "water_requirement": "Medium",
+        "soil_preference": "Island soils",
+        "characteristics": "Developed for islands",
+        "special_features": "Climate resilient"
+      },
+      {
+        "variety_id": "RICE_051",
+        "variety_name": "Island Special",
+        "category": "rice",
+        "suitability_score": 1.0,
+        "carbon_potential": 2.3,
+        "market_value": "High",
+        "confidence_level": 0.85,
+        "zones": [
+          "Zone_15_Island"
+        ],
+        "climate_suitability": "Traditional indica",
+        "water_requirement": "Low",
+        "soil_preference": "Sandy coastal",
+        "characteristics": "Local variety",
+        "special_features": "Traditional island cultivation"
+      }
+    ],
+    "agroforestry": [
+      {
+        "variety_id": "AGRO_012",
+        "variety_name": "Coconut Laccadive Ordinary",
+        "category": "agroforestry",
+        "suitability_score": 1.0,
+        "carbon_potential": 4.0,
+        "market_value": "Good",
+        "confidence_level": 0.85,
+        "zones": [
+          "Zone_15_Island"
+        ],
+        "climate_suitability": "Tall palm",
+        "water_requirement": "Medium",
+        "soil_preference": "Island variety",
+        "characteristics": "Island specialty",
+        "special_features": "Island adapted, wind resistant"
+      },
+      {
+        "variety_id": "AGRO_052",
+        "variety_name": "Betel nut Island Red",
+        "category": "agroforestry",
+        "suitability_score": 1.0,
+        "carbon_potential": 2.8,
+        "market_value": "Good",
+        "confidence_level": 0.85,
+        "zones": [
+          "Zone_15_Island"
+        ],
+        "climate_suitability": "Nut palm",
+        "water_requirement": "Medium",
+        "soil_preference": "Commercial crop",
+        "characteristics": "Commercial nut",
+        "special_features": "Island variety, red nut"
+      },
+      {
+        "variety_id": "AGRO_053",
+        "variety_name": "Betel nut Island Dwarf",
+        "category": "agroforestry",
+        "suitability_score": 1.0,
+        "carbon_potential": 2.5,
+        "market_value": "Good",
+        "confidence_level": 0.85,
+        "zones": [
+          "Zone_15_Island"
+        ],
+        "climate_suitability": "Dwarf palm",
+        "water_requirement": "Medium",
+        "soil_preference": "High density crop",
+        "characteristics": "Early bearing",
+        "special_features": "Dwarf variety, early bearing"
+      },
+      {
+        "variety_id": "AGRO_045",
+        "variety_name": "Rohida Desert Teak",
+        "category": "agroforestry",
+        "suitability_score": 0.85,
+        "carbon_potential": 2.8,
+        "market_value": "Premium",
+        "confidence_level": 0.7225,
+        "zones": [
+          "Zone_14_Western_Dry"
+        ],
+        "climate_suitability": "Desert hardwood",
+        "water_requirement": "Medium",
+        "soil_preference": "Premium desert timber",
+        "characteristics": "Premium timber",
+        "special_features": "Desert teak, premium wood"
+      },
+      {
+        "variety_id": "AGRO_041",
+        "variety_name": "Khejri Desert Khejri",
+        "category": "agroforestry",
+        "suitability_score": 0.8,
+        "carbon_potential": 2.5,
+        "market_value": "Good",
+        "confidence_level": 0.68,
+        "zones": [
+          "Zone_14_Western_Dry"
+        ],
+        "climate_suitability": "Desert tree",
+        "water_requirement": "Medium",
+        "soil_preference": "Arid zone tree",
+        "characteristics": "Fodder, fuelwood",
+        "special_features": "Desert adaptation, sacred tree"
+      }
+    ],
+    "crops": [
+      {
+        "variety_id": "CROP_021",
+        "variety_name": "Chickpea Avrodhi",
+        "category": "crops",
+        "suitability_score": 0.843,
+        "carbon_potential": 2.2,
+        "market_value": "Premium",
+        "confidence_level": 0.7168,
+        "zones": [
+          "Zone_14_Western_Dry"
+        ],
+        "climate_suitability": "Kabuli type",
+        "water_requirement": "Low",
+        "soil_preference": "Well-drained loam",
+        "characteristics": "Large seeded, export type",
+        "special_features": "Nitrogen fixing, drought tolerant"
+      },
+      {
+        "variety_id": "CROP_010",
+        "variety_name": "Pearl Millet HHB-67",
+        "category": "crops",
+        "suitability_score": 0.793,
+        "carbon_potential": 1.5,
+        "market_value": "High",
+        "confidence_level": 0.6743,
+        "zones": [
+          "Zone_14_Western_Dry"
+        ],
+        "climate_suitability": "Single cross hybrid",
+        "water_requirement": "Low",
+        "soil_preference": "Sandy soils",
+        "characteristics": "Extremely drought tolerant",
+        "special_features": "Arid zone adaptation"
+      },
+      {
+        "variety_id": "CROP_016",
+        "variety_name": "Mustard RH-30",
+        "category": "crops",
+        "suitability_score": 0.793,
+        "carbon_potential": 1.5,
+        "market_value": "High",
+        "confidence_level": 0.6743,
+        "zones": [
+          "Zone_14_Western_Dry"
+        ],
+        "climate_suitability": "Indian mustard",
+        "water_requirement": "Low",
+        "soil_preference": "Sandy loam",
+        "characteristics": "Drought tolerant",
+        "special_features": "Suitable for arid regions"
+      }
+    ]
+  },
+  "total_varieties_evaluated": 147,
+  "suitable_varieties_found": 14,
+  "realistic_carbon_potential": 2.36,
+  "estimated_annual_credits": 2.01,
+  "estimated_revenue": 50.15,
+  "farming_scenario": {
+    "rice_coverage": "40%",
+    "primary_crop_coverage": "30%",
+    "secondary_crop_coverage": "20%",
+    "agroforestry_coverage": "10%"
+  },
+  "analysis_timestamp": "2025-09-27T18:33:51.068930"
+}
